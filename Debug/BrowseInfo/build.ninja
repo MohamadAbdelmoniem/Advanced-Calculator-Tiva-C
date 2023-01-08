@@ -1,0 +1,143 @@
+##IAR Ninja build file
+
+
+#Rules
+rule COMPILER_XCL
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\XclFileGenerator.exe" $xclcommand -f "$rspfile_name"
+  description = IAR_NEW_TOOL+++COMPILER_XCL+++$in+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\XclFileGenerator.exe" $flags
+  rspfile = $rspfile_name
+  rspfile_content = $flags
+
+rule INDEXER
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\SourceIndexer.exe" $flags
+  depfile = $out.dep
+  description = IAR_NEW_TOOL+++INDEXER+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\SourceIndexer.exe" $flags
+
+rule MAKEBROWSE
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\makeBrowseData.exe" $flags
+  description = IAR_NEW_TOOL+++MAKEBROWSE+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\makeBrowseData.exe" $flags
+
+rule PDBLINK
+  command = "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\PbdLink.exe" $flags
+  description = IAR_NEW_TOOL+++PDBLINK+++$out+++"C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\common\bin\PbdLink.exe" $flags
+
+
+
+#Build steps
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Calculator.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Calculator.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\DIO.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\DIO.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\KeyPad.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\KeyPad.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\LCD.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\LCD.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\main.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\main.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Modes.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Modes.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\ModesInt.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\ModesInt.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\startup_ewarm.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\startup_ewarm.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\StopWatch.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\StopWatch.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.xcl : COMPILER_XCL 
+  xclcommand = -source_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Timer.c" -xcl_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.xcl" -macro_file "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.tmp" -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Timer.c" -D ewarmPART_TM4C123GH6PM -D TARGET_IS_TM4C123_RB1 -o "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -I C$:\ti\TivaWare_C_Series-2.2.0.295\ -Ol --predef_macros "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.tmp"
+  rspfile_name = C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.xcl.rsp
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Calculator.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\DIO.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\KeyPad.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\LCD.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\main.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Modes.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\ModesInt.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\startup_ewarm.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\StopWatch.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.pbi : INDEXER C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.xcl |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Timer.c
+  flags = "-out=C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.pbi" -f "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.xcl"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbw : MAKEBROWSE C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbd
+  flags = "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbd" -output "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbw"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part0.pbi : PDBLINK C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.pbi |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.pbi $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.pbi
+  flags = -M "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part0.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Calculator.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\DIO.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\KeyPad.pbi"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part1.pbi : PDBLINK C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.pbi |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.pbi $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.pbi
+  flags = -M "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part1.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\LCD.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\main.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Modes.pbi"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part2.pbi : PDBLINK C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.pbi |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.pbi $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.pbi
+  flags = -M "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part2.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\ModesInt.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\startup_ewarm.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\StopWatch.pbi"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part3.pbi : PDBLINK C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.pbi
+  flags = -M "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part3.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\Timer.pbi"
+
+build C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbd : PDBLINK C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part0.pbi |  $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part1.pbi $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part2.pbi $
+C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part3.pbi
+  flags = -M "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry.pbd" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part0.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part1.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part2.pbi" "C$:\Users\DELL\Desktop\Embedded$ labs\Team4$ CESS\Debug\BrowseInfo\trytry_part3.pbi"
+

@@ -1,0 +1,52 @@
+# ninja log v5
+6	139	6917827983572752	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Obj/SevenSegmentDisplay.o	896c78de42c5bbd8
+2	317	6917693195430779	C:/Users/DELL/Desktop/Lab5/Debug/Obj/DIO.o	9e0fe33bde246e78
+2	71	6917694261673585	C:/Users/DELL/Desktop/Lab5/Debug/Exe/trytry.out	38c7b28b94694aea
+219	349	6917827985678379	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Obj/SysticTimer.o	e8f51e5bba006134
+0	162	6917174853173572	C:/Users/DELL/Desktop/Lab5/Debug/Obj/7SegmentDisplay.o	7a0be9f135620a33
+5	277	6937872596829904	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/KeyPad.o	fadebf154f3c3d7c
+2	192	6917808142763471	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Obj/DIO.o	4236925057e001f8
+1	185	6915498682003952	C:/Users/DELL/Desktop/lab try/Debug/Obj/main.o	c77e36f31b81f282
+2	328	6915479264458534	C:/Users/DELL/Desktop/lab try/Debug/Obj/DIO.o	719407f14c78aa22
+188	264	6915498682811894	C:/Users/DELL/Desktop/lab try/Debug/Exe/trytry.out	b2bb46152bd75e78
+68	312	6917171936380518	C:/Users/DELL/Desktop/Lab5/Debug/Obj/KeyPad.o	1baeb0211ac9ce51
+2	168	6937797164065861	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/Calculator.o	3f19f2065ffbfe06
+1	73	6917694236618571	C:/Users/DELL/Desktop/Lab5/Debug/Obj/main.o	3252013fb7082729
+1	268	6917190009397278	C:/Users/DELL/Desktop/Lab5/Debug/Obj/SevenSegmentDisplay.o	f777ed1293f6a3c
+0	81	6917702721503932	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/Obj/main.o	3068c1889b26c28a
+285	356	6917823100337955	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Exe/trytry.out	92f983e74b61a8b5
+5	197	6917702732806136	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/Obj/SevenSegmentDisplay.o	f375e04bcdde0d5
+2	290	6917702733818402	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/Obj/DIO.o	31d72fde09eb576
+1	210	6917812414010914	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Obj/main.o	93a9f065043d2d27
+201	341	6917702734346523	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/Obj/KeyPad.o	94a8ae655bdba0a2
+348	441	6917702735364618	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/Exe/trytry.out	78ea17461b88bc11
+34	276	6917754010397687	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Obj/KeyPad.o	ed44bd59e2d97738
+431	580	6937787639469593	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/ModesInt.o	bf7155a8396f70cd
+284	414	6917754011837351	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Obj/SevenSegmentDisplay.o	cbb82f2e857f8adc
+3	280	6917823099519168	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/Obj/SysticTimer.o	41b612606e56db9
+1	280	6917842700999347	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Obj/main.o	ad620ebd0ed8d2e3
+2	211	6917827984282474	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Obj/DIO.o	57697815ddc9d17f
+145	288	6917827985072972	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Obj/KeyPad.o	6308e48aff4cd98a
+3	114	6917842716353681	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/Exe/trytry.out	23e9afe0ee7d4f62
+203	398	6941812286620827	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Exe/trytry.out	e2e48767cf1e5066
+756	914	6937119253236729	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/LCD.o	7de13a50f117ed3c
+6	152	6937791584868962	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/KeyPad.o	f92a2f682de7d48a
+764	985	6937119253871046	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/DIO.o	3bb5ce524c74f5fa
+982	1067	6937119254805734	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/startup_ewarm.o	19c0c9c173fc0e5f
+266	422	6937787637880396	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/main.o	10413f9c9496c651
+2	200	6937801117477706	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/Timer.o	8f590d12e9b659ae
+29	218	6941430952019675	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/main.o	9d7395ee12142675
+12	350	6937884899166293	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/startup_ewarm.o	d9b0306c48561f96
+205	313	6937801118577416	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Exe/trytry.out	7f1d4c8ea87a9421
+259	448	6937787638009516	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/StopWatch.o	8766acebd74f597e
+920	976	6937119253891736	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/Obj/Modes.o	2be024d9d4c495ac
+3	198	6941812284659956	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/Calculator.o	d3e547725090e5be
+273	455	6937872598710298	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/LCD.o	e5337369f631b45f
+282	512	6937872599258506	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/DIO.o	361d346c6d8a0b51
+1	982	6941806840924552	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/Timer.o	de706e976cf6de18
+25	106	6941430950962499	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/Modes.o	576d456c8a775f4c
+2	220	6937885425471553	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/ModesInt.o	da00362f73433130
+3	202	6941465374830091	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/StopWatch.o	cec783b0488d1af
+2	236	6941820284166281	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/Calculator.o	d3e547725090e5be
+6	275	6941820284565531	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Obj/KeyPad.o	fadebf154f3c3d7c
+282	395	6941820285714131	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/Exe/trytry.out	e2e48767cf1e5066

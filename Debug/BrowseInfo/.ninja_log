@@ -1,0 +1,267 @@
+# ninja log v5
+1	235	6917171920000000	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/7SegmentDisplay.xcl	58bfe5f8bfafdb1d
+1	115	6915532890000000	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/KeyPad.xcl	b94330c28f81ac6b
+265	349	6917827990000000	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/SysticTimer.xcl	7eb504060ae7cf5e
+5	94	6917273611351257	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/main.pbi	c93a9e1e5f74d835
+6	110	6917702590000000	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/main.xcl	d4babfa92dd308e1
+1	180	6915479300000000	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/DIO.xcl	f13e9044beb4c83f
+453	1684	6917324036863351	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/trytry.pbw	ea659b7115086913
+8	208	6915504220000000	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/DIO.xcl	db442b826e6c8560
+1	121	6917842736782921	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/main.pbi	cede91e36bbe2c35
+369	448	6917324025251346	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/trytry.pbd	22cb2ef56fc3d692
+1	150	6915498727070512	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/main.pbi	31112a67b8bb733e
+62	885	6909911740000000	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/main.xcl	ffbbdc869d7246b4
+204	1155	6915498736480075	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/trytry.pbw	51ff8686c7806cc9
+1	155	6915488708079824	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/DIO.pbi	4a5b9dcdf251135a
+684	809	6917753960000000	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/SevenSegmentDisplay.xcl	20699b8fafb7f62c
+817	996	6917753966532473	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/SevenSegmentDisplay.pbi	8963a52ada37b2ce
+202	285	6917842738432122	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/trytry.pbd	e2a4cdb29aafc7cb
+153	202	6915498727580899	C:/Users/DELL/Desktop/lab try/Debug/BrowseInfo/trytry.pbd	d86fdba802ae7610
+2	199	6915504220000000	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/main.xcl	d4003002680827fe
+27	155	6917171923887520	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/KeyPad.pbi	781bd54086a49672
+1	104	6917324955054249	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/DIO.pbi	7254c8711e572c43
+258	396	6937787609624970	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part0.pbi	494dc3215c115ee3
+3	209	6917174877451785	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/7SegmentDisplay.pbi	d7c0de64caacdbbf
+3	129	6917808169036067	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/DIO.pbi	a55a0e2c98184f04
+1	121	6930129540000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/KeyPad.xcl	4bcb302ad9152965
+11	131	6917176520000000	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/SevenSegmentDisplay.xcl	83aeb4f2772ed9fc
+123	194	6917812461889065	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/trytry_part1.pbi	c83a52fdd13e5ca2
+3	211	6917190052403127	C:/Users/DELL/Desktop/Lab5/Debug/BrowseInfo/SevenSegmentDisplay.pbi	2ef467981e12a7e6
+2	979	6917842804360219	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/trytry.pbw	47ac31d5c096d99a
+604	1518	6917702605210474	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/trytry.pbw	1fb6d9d3208be37
+114	185	6917702592208670	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/main.pbi	201ced34469d140c
+164	251	6917823106440018	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/trytry.pbd	cc590385940e9c50
+149	241	6917827990000000	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/main.xcl	9b5cd0c35c7ceb0d
+1	114	6917823105077897	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/SysticTimer.pbi	f8c8094f3ba7ad70
+2	121	6917776800000000	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/SysticTimer.xcl	2e87f7baf7b971d5
+1	101	6917702590000000	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/KeyPad.xcl	c4b79b059ba67f9a
+397	503	6917702595367997	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/SevenSegmentDisplay.pbi	eca1b65e3724e287
+107	205	6917702590000000	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/DIO.xcl	b0b6f83c365d0058
+188	296	6917702593310981	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/KeyPad.pbi	1b5018104b5a382c
+210	311	6917702593448088	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/DIO.pbi	7217072a04868677
+999	1166	6917753960000000	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/main.xcl	92b6508ec4f258da
+1	143	6917827980000000	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/KeyPad.xcl	e59226e1d5a5dc7a
+299	390	6917702590000000	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/SevenSegmentDisplay.xcl	ed0fa42e091234af
+510	597	6917702596308932	C:/Users/DELL/Desktop/Embedded labs/7Segment Lab/Debug/BrowseInfo/trytry.pbd	859f18f66051619b
+139	236	6935948308911012	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/DIO.pbi	b689c1c66964778
+120	159	6917823105541232	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/trytry_part2.pbi	57bd65022c72b9db
+9	654	6917753960000000	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/DIO.xcl	deb92f3866a7af5d
+34	679	6917753960000000	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/KeyPad.xcl	a9c0957feaec34fa
+460	562	6917827993633361	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/SevenSegmentDisplay.pbi	7efef4495ace7267
+861	1009	6917753966722500	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/KeyPad.pbi	836e83bd837c53be
+1	120	6917812461140855	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/main.pbi	c05284c8a353a77f
+2	911	6917823173212080	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/trytry.pbw	905a35bca2e0c67e
+5	130	6930129540000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/DIO.xcl	6292aa6d19e53cda
+132	197	6917808169746570	C:/Users/DELL/Desktop/Embedded labs/SysticTimer Lab/Debug/BrowseInfo/trytry_part0.pbi	63ea1bda10bb3b6a
+5	151	6917827980000000	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/DIO.xcl	f7d555b83f078ed5
+155	263	6917827990632370	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/DIO.pbi	bcdfb3be76a6d16e
+364	455	6917827990000000	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/SevenSegmentDisplay.xcl	c1f58f9295668130
+354	468	6917827992680467	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/KeyPad.pbi	4472147de40f7af0
+471	531	6917827993329843	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/trytry_part0.pbi	3989fac1a191aa1
+2	156	6937594710883178	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Calculator.pbi	ff996748f3e2440d
+125	197	6917842737540285	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/trytry_part1.pbi	58ade653a8168e25
+534	638	6917827994364655	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/SysticTimer.pbi	9cae2b8426b35850
+127	214	6930129540000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/main.xcl	3734f0dc2f65a089
+640	682	6917827994831356	C:/Users/DELL/Desktop/Embedded labs/TivaWare/Debug/BrowseInfo/trytry_part2.pbi	8087ea6f61df07bc
+5	252	6937787608160226	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/KeyPad.pbi	815cb7b9412fb939
+219	312	6930129550000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/SysticTimer.xcl	d31a597e000416b
+58	231	6937586794914311	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/main.pbi	3a2da0f06b53d1c
+400	498	6930129550000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/SevenSegmentDisplay.xcl	98e41525f078f0c3
+426	547	6930129552551312	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/SysticTimer.pbi	22ba47d522c81221
+273	357	6937787134802833	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part2.pbi	bdfdd86d47961be9
+502	606	6930129553129788	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/SevenSegmentDisplay.pbi	5c195d7ef60c53ac
+235	385	6937586796477599	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part1.pbi	f3e9587bd5f3a4c4
+400	529	6937787610912247	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+536	1649	6937787621629455	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+6	101	6930157320000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/startup_ewarm.xcl	7752026f315e4637
+1	121	6930157320000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Calculator.xcl	6f98d18f644742f
+109	209	6930157320000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/LCD.xcl	3acf4507097ee4c0
+2	155	6930240711361379	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/startup_ewarm.pbi	cfaa5f92977ba470
+355	474	6930157325378873	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/LCD.pbi	97a07b89cabac380
+3	187	6934442800000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/StopWatch.xcl	1a76301b07169520
+3	187	6937604355049002	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/StopWatch.pbi	6e9d046d6c9ff155
+4	130	6934451810000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.xcl	9c47d96dd6b6c4f2
+3	253	6937783795709391	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+1	121	6935947030000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Modes.xcl	76e2c12bdebf5568
+2	42	6936784967947888	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Modes.pbi	754de61ff258265f
+258	307	6937783796284504	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+1	272	6937181140000000	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/ModesInt.xcl	961271aa232a0dbd
+5	267	6937787133879813	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/ModesInt.pbi	40acb4e68bd65356
+5	197	6937788745578959	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Calculator.pbi	ff996748f3e2440d
+201	273	6937788746279817	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part0.pbi	494dc3215c115ee3
+278	400	6937788747579701	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+405	1423	6937788757492580	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+3	130	6937791612139485	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/KeyPad.pbi	815cb7b9412fb939
+9	155	6937791612388193	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+157	225	6937791613092163	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+132	231	6937791613154931	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part0.pbi	494dc3215c115ee3
+234	392	6937791614765736	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+397	1575	6937791625960373	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+3	193	6937793103138620	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+195	257	6937793103796890	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+260	394	6937793105187142	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+398	1640	6937793116933786	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+5	434	6937793936178456	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+444	513	6937793937066677	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+517	637	6937793938255558	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+2	1194	6937794007307106	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+2	142	6937794366711144	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+145	194	6937794367241767	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+200	324	6937794368546910	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+332	1444	6937794379129796	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+5	196	6937795193024138	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+201	261	6937795193729068	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+267	421	6937795195325665	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+2	1157	6937795261760724	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+3	202	6937796380749616	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Calculator.pbi	ff996748f3e2440d
+215	366	6937796382397583	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part0.pbi	494dc3215c115ee3
+377	559	6937796384327882	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+1	1200	6937796448700815	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+5	162	6937797214041011	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Calculator.pbi	ff996748f3e2440d
+166	260	6937797215013614	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part0.pbi	494dc3215c115ee3
+264	385	6937797216201516	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+391	1481	6937797226707530	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+6	162	6937799717672365	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+165	216	6937799718224817	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+219	354	6937799719596947	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+363	1469	6937799730113180	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+2	132	6937800546313707	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+137	186	6937800546865153	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+190	315	6937800548110344	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+321	1547	6937800559866517	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+1	137	6937801120669964	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/Timer.pbi	73a3c4ac9047778b
+142	192	6937801121220060	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part3.pbi	11c6a25d2bb87488
+196	315	6937801122456783	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+319	1403	6937801132650693	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+2	168	6937866508030430	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/main.pbi	3a2da0f06b53d1c
+171	257	6937866508938765	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry_part1.pbi	f3e9587bd5f3a4c4
+264	383	6937866510185103	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbd	6f89252281fc1f21
+388	1331	6937866519285362	C:/Users/DELL/Desktop/Embedded labs/TimerProject/Debug/BrowseInfo/trytry.pbw	de0b10faa74b732f
+15	227	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.xcl	42b030e03a926600
+45	236	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/KeyPad.xcl	42675a8fe0caac02
+233	337	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/DIO.xcl	a97d81ba4f2375c1
+241	348	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/ModesInt.xcl	e46b1aeb68b66049
+341	443	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Modes.xcl	e61b535e38766131
+352	450	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.xcl	60c1b24eddfe0d0
+448	561	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/LCD.xcl	c3d4df877bfbed13
+455	571	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/main.xcl	1d16de0dde1d515e
+566	669	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/StopWatch.xcl	626b6009d73571c2
+575	735	6937872577781142	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/main.pbi	84b846042516a46a
+674	768	6937872570000000	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.xcl	378b6b18d9d3056c
+737	852	6937872578957998	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+855	967	6937872580113014	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/KeyPad.pbi	777320004873450f
+773	998	6937872580403519	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/DIO.pbi	1586fc28c30ec1eb
+969	1128	6937872581700064	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/LCD.pbi	fd71f856640811f4
+1000	1182	6937872582168806	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/ModesInt.pbi	444f4e3643c0f1d7
+1130	1269	6937872583006561	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+1184	1291	6937872583335681	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+1272	1318	6937872583604966	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Modes.pbi	bcb8eb3c8bf53f2f
+1293	1432	6937872584751890	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/StopWatch.pbi	3164ad707d0e85c3
+1321	1458	6937872585012491	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.pbi	e83356eb007a8737
+1434	1505	6937872585492175	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part1.pbi	27b46613ec92ed01
+1461	1511	6937872585532076	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part3.pbi	54dee81c3720d40f
+1509	1585	6937872586301123	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+1590	1705	6937872587487977	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+2	949	6937872652588481	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	69	6937873409704195	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+2	81	6937873461320466	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+86	196	6937873462468874	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+203	1192	6937873471814645	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	157	6937874280794052	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+160	233	6937874281553930	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+237	353	6937874282765273	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+359	1309	6937874291683640	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	52	6937875099619474	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+56	132	6937875100417492	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+140	258	6937875101678372	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+262	1179	6937875110531402	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	51	6937875969090861	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+56	131	6937875969885970	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+135	252	6937875971092745	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+2	953	6937876035924984	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	123	6937877499414171	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/main.pbi	84b846042516a46a
+127	191	6937877500102333	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part1.pbi	27b46613ec92ed01
+198	307	6937877501263715	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+314	1289	6937877510393868	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	142	6937879075278367	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+145	247	6937879076345506	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+251	391	6937879077751785	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+395	1553	6937879088676535	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	109	6937879595343407	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+113	194	6937879596202750	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+199	310	6937879597364423	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+316	1317	6937879606686300	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	67	6937884409846014	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+69	152	6937884410703725	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+157	274	6937884411912157	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+279	1469	6937884423272098	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	121	6937884979858663	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/ModesInt.pbi	444f4e3643c0f1d7
+124	200	6937884980658108	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+205	320	6937884981861577	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+325	1469	6937884992587508	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	120	6937885448809899	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/ModesInt.pbi	444f4e3643c0f1d7
+123	196	6937885449578140	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+202	324	6937885450857372	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+2	926	6937885513198798	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	147	6937898324377861	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/main.pbi	84b846042516a46a
+150	226	6937898325156830	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part1.pbi	27b46613ec92ed01
+233	357	6937898326532679	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+363	1520	6937898337457478	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+1	178	6938440666095993	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+180	323	6938440667546335	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+327	513	6938440669464926	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+2	1159	6938440748920571	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+4	112	6938441309457797	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+117	209	6938441310448010	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+216	344	6938441311748914	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+350	1436	6938441321916826	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+5	68	6939760948022591	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/startup_ewarm.pbi	7a197ea7b0facf7
+74	175	6939760949031250	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+181	332	6939760950649788	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+340	1528	6939760962092909	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	166	6941407359848225	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.pbi	e83356eb007a8737
+169	252	6941407360719297	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part3.pbi	54dee81c3720d40f
+255	443	6941407362634624	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+452	2800	6941407385748398	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	149	6941430896546606	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/StopWatch.pbi	3164ad707d0e85c3
+153	292	6941430897984480	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+297	440	6941430899470512	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+445	1750	6941430911798579	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+7	62	6941430964207275	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Modes.pbi	bcb8eb3c8bf53f2f
+3	170	6941430965285668	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/main.pbi	84b846042516a46a
+172	299	6941430966572242	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part1.pbi	27b46613ec92ed01
+302	448	6941430968073323	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+452	1683	6941430979931613	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	301	6941464049113912	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/StopWatch.pbi	3164ad707d0e85c3
+304	410	6941464050205739	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+413	558	6941464051666473	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+562	1707	6941464062571202	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+3	199	6941465385008676	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/StopWatch.pbi	3164ad707d0e85c3
+206	281	6941465385819019	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part2.pbi	c605b1fe317fe4fb
+287	442	6941465387409981	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+457	1911	6941465401605113	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	140	6941467079856812	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.pbi	e83356eb007a8737
+144	193	6941467080393927	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part3.pbi	54dee81c3720d40f
+197	327	6941467081724039	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+334	1311	6941467091244906	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	149	6941468161488451	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.pbi	e83356eb007a8737
+151	205	6941468162043979	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part3.pbi	54dee81c3720d40f
+209	331	6941468163278399	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+336	1507	6941468174578705	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+5	226	6941468635280327	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Timer.pbi	e83356eb007a8737
+231	274	6941468635763907	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part3.pbi	54dee81c3720d40f
+280	407	6941468637115929	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+413	1350	6941468646163144	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+2	151	6941810783766330	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+154	286	6941810785154907	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+290	433	6941810786599226	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+437	2813	6941810809907947	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+3	134	6941812333836039	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+138	223	6941812334673334	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+226	360	6941812336101681	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+365	1424	6941812346354358	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
+7	138	6941820367639247	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/KeyPad.pbi	777320004873450f
+2	143	6941820367699592	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/Calculator.pbi	472a0e5fd5d69a56
+145	235	6941820368649075	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry_part0.pbi	a14b617a1744a56
+238	361	6941820369896699	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbd	2e75f8833a41524c
+367	1463	6941820380511835	C:/Users/DELL/Desktop/Embedded labs/Team4 CESS/Debug/BrowseInfo/trytry.pbw	59221dbe73365460
